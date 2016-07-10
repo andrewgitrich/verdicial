@@ -1,0 +1,89 @@
+header, footer{
+	background-color: black;
+}
+
+.welcome, .support{
+	background-color: #e0e0e0;
+}
+
+header{
+	height: 355px;
+}
+
+.welcome{
+	height: 400px;
+
+}
+.design{
+	height: 600px;
+}
+
+.support{
+	height: 350px;
+
+}
+
+footer{
+	height: 275px;
+}
+h1,h5{
+	color: white;
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+h2, h4{
+	color: black;
+	text-align: center;
+}
+h4{
+	font-size: 12px;
+}
+h2{
+	margin-top: 0;
+	padding-top: 70px;
+}
+
+h1{
+	padding-top: 30px;
+	font-size: 55px;
+	margin-top: 50px;
+}
+
+#nav{
+	text-align: center;
+	padding-top: 50px;
+}
+
+.btn-default{
+color: white;
+background-color: black;
+border: none;
+margin: 0 15px;
+padding: 15px;
+border-radius: 7px;
+letter-spacing: 2px;
+
+}
+
+#active{
+	background-color: #ff6818;
+}
+
+p{
+	text-align: center;
+	width: 900px;
+	margin: 45px auto;
+}
+
+#welcome-btn{
+	margin: 0 auto;
+	background-color: #ff6818;	
+	display: block;
+	margin: 0 auto;
+	border: none;
+	border-radius: 8px;
+	padding: 17px;
+	letter-spacing: 3px;
+	
+}
